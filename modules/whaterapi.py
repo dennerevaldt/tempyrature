@@ -6,4 +6,4 @@ def getWeatherByCity(city):
     return 'Local não encontrado'
 
   json = r.json()
-  return 'A temperatura atual em ' + city.title() + ' é: ' + str(json.get('main', {}).get('temp', '0')) + 'ºC'
+  return 'A temperatura atual em ' + city.title() + ' é: ' + str(json.get('main', {}).get('temp')) + 'ºC'
