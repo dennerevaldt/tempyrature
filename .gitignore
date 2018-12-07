@@ -1,0 +1,13 @@
+# Default
+__pycache__
+.git/
+.idea/
+.vscode/
+venv/
+ENV/
+argparse
+sys
+# Development
+temp/
+.DS_Store
+.vscode
