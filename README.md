@@ -3,7 +3,7 @@
 ### Projeto em Python para conclusão do curso
 
 #### Descrição
-- Projeto simples para pesquisar a temperatura atual de determinada cidade;
+- Projeto para pesquisar a temperatura atual de uma cidade;
 
 #### Dependências
 - As dependências do projeto estão no arquivo [requirements.txt](https://github.com/dennerevaldt/tempyrature/blob/master/requirements.txt);
