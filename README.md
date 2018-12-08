@@ -6,7 +6,7 @@
 - Projeto simples para pesquisar a temperatura atual de determinada cidade;
 
 ### Dependências
-- As dependências do projeto estão no arquivo requirements.txt;
+- As dependências do projeto estão no arquivo [requirements.txt](https://github.com/dennerevaldt/tempyrature/blob/master/requirements.txt);
 - API free [OpenWeatherMap](https://openweathermap.org/) utilizada no projeto;
 
 ### Curso na Udemy
